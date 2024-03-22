@@ -24,16 +24,35 @@ public class PoliticalPartyGuesser {
 
         // Ask survey questions
         String[] questions = {
+                //Question 1
                 "What should the government do to help the poor?",
-                // Add more questions here
+                //Question 2
+                "What is your stance on gun control?",
+                //Question 3
+                "How do you view the role of government in the economy?",
         };
 
         String[][] options = {
-                {"A. Make it easier to apply for assistance.", "B. Allow parents to use education funds for charter schools.",
-                        "C. Create welfare to work programs.", "D. Nothing."},
-                // Add more answer options for each question
+                //Question 1 
+                {"A. Make it easier to apply for assistance.", 
+                "B. Allow parents to use education funds for charter schools.",
+                "C. Create welfare to work programs.",
+                "D. Nothing."},
+                
+                //Question 2
+                {"A. I support strict gun control laws.", 
+                "B. I believe in upholding the Second Amendment rights but with reasonable regulations.",
+                "C. I strongly oppose any form of gun control",
+                "D. I advocate for significant restrictions on gun ownership and promote non-violent resolutions"},
+
+                //Question 3
+                {"A. I believe in a strong government role in regulating the economy and providing social services",
+                "B. I support free-market principles and minimal government intervention",
+                "C. I advocate for a laissez-faire approach where the governments role in the economy is limited",
+                "D. I endorse sustainable and equitable economic policies that prioritize environment over profit"},
         };
 
+        //looping through questions getting an answer
         for (int i = 0; i < questions.length; i++) {
             System.out.println(questions[i]);
             for (String option : options[i]) {
