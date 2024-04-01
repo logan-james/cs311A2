@@ -1,8 +1,9 @@
+
 import java.io.FileWriter;
 import java.io.IOException;
 import java.util.Scanner;
 
-public class PoliticalPartyGuesser {
+public class PPG {
     private static final String[] PARTIES = {"Democratic", "Republican", "Libertarian", "Green"};
     private static final double[][] WEIGHTS = {
         {0.8, 0.1, 0.0, 0.1},
@@ -15,7 +16,7 @@ public class PoliticalPartyGuesser {
         {0.8, 0.1, 0.1, 0.0},
         {0.9, 0.1, 0.0, 0.0},
         {0.8, 0.1, 0.1, 0.0}
-    };
+};
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
@@ -74,10 +75,14 @@ public class PoliticalPartyGuesser {
 
             int index = answer.charAt(0) - 'A';
 
-            // Apply the correct weight to each party's score based on the user's answer
             for (int j = 0; j < PARTIES.length; j++) {
-                scores[j] += WEIGHTS[i][j] * (j == index ? 1 : 0);
+                scores[j] += WEIGHTS[i][index];
             }
+        }
+
+        System.out.println("Scores:");
+        for (int i = 0; i < PARTIES.length; i++) {
+            System.out.println(PARTIES[i] + ": " + scores[i]);
         }
 
         String predictedParty = predictParty(scores);
