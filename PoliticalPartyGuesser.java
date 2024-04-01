@@ -93,12 +93,12 @@ public class PoliticalPartyGuesser { // Define the main class named PoliticalPar
                     writer.write(questions[j] + "\n" + options[j][userAnswers[j].charAt(0) - 'A'] + "\n\n"); // Write the question and user's answer to the file.
                 }
                 writer.write("Predicted Party: " + predictedParty + "\n\n"); // Write the predicted party to the file.
+                
             } catch (IOException e) { // Catch any IOException that may occur.
                 System.out.println("An error occurred while storing the data for " + PARTIES[i] + " party."); // Print an error message.
                 e.printStackTrace(); // Print the stack trace of the exception.
             }
         }
-
         System.out.println("Thank you for using the Political Party Guesser!"); // Print a thank you message.
     }
 
@@ -114,5 +114,7 @@ public class PoliticalPartyGuesser { // Define the main class named PoliticalPar
 
     private static boolean isValidAnswer(String answer) { // Define a method to validate the user's answer.
         return answer.length() == 1 && answer.charAt(0) >= 'A' && answer.charAt(0) <= 'D'; // Check if the answer is a single character between 'A' and 'D'.
-    }
-}
+
+        
+    } // Closing Main Method
+} // Closing Class

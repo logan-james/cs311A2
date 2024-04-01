@@ -196,3 +196,135 @@ C. Reduce federal involvement in education.
 
 Predicted Party: Libertarian
 
+User's Answers for Republican Party:
+What should the government do to help the poor?
+D. Nothing.
+
+What is your stance on gun control?
+D. No gun control laws are necessary.
+
+What is your view on climate change?
+D. Climate change is not a significant concern.
+
+What should be the primary focus of U.S. foreign policy?
+D. Reduce U.S. involvement in foreign affairs.
+
+What is your stance on immigration?
+D. Open borders and welcome all immigrants.
+
+What should be the government's role in healthcare?
+D. Eliminate all government healthcare programs.
+
+What is your view on taxes and government spending?
+D. Eliminate all taxes and drastically reduce government spending.
+
+What should be the government's role in regulating businesses?
+D. Eliminate most government regulations on businesses.
+
+What is your stance on social issues like abortion and same-sex marriage?
+D. Government should not be involved in these issues.
+
+What should be the government's role in education?
+D. Eliminate the Department of Education.
+
+Predicted Party: Green
+
+User's Answers for Republican Party:
+What should the government do to help the poor?
+D. Nothing.
+
+What is your stance on gun control?
+D. No gun control laws are necessary.
+
+What is your view on climate change?
+D. Climate change is not a significant concern.
+
+What should be the primary focus of U.S. foreign policy?
+D. Reduce U.S. involvement in foreign affairs.
+
+What is your stance on immigration?
+D. Open borders and welcome all immigrants.
+
+What should be the government's role in healthcare?
+D. Eliminate all government healthcare programs.
+
+What is your view on taxes and government spending?
+D. Eliminate all taxes and drastically reduce government spending.
+
+What should be the government's role in regulating businesses?
+D. Eliminate most government regulations on businesses.
+
+What is your stance on social issues like abortion and same-sex marriage?
+D. Government should not be involved in these issues.
+
+What should be the government's role in education?
+D. Eliminate the Department of Education.
+
+Predicted Party: Green
+
+User's Answers for Republican Party:
+What should the government do to help the poor?
+A. Make it easier to apply for assistance.
+
+What is your stance on gun control?
+A. Stricter gun control laws are needed.
+
+What is your view on climate change?
+A. Urgent action is needed to combat climate change.
+
+What should be the primary focus of U.S. foreign policy?
+A. Promote democracy and human rights.
+
+What is your stance on immigration?
+A. Provide a pathway to citizenship for undocumented immigrants.
+
+What should be the government's role in healthcare?
+A. Implement a universal healthcare system.
+
+What is your view on taxes and government spending?
+A. Raise taxes on the wealthy and increase government spending.
+
+What should be the government's role in regulating businesses?
+A. Increase regulations to protect consumers and the environment.
+
+What is your stance on social issues like abortion and same-sex marriage?
+A. Support progressive policies like pro-choice and same-sex marriage.
+
+What should be the government's role in education?
+A. Increase funding for public education.
+
+Predicted Party: Democratic
+
+User's Answers for Republican Party:
+What should the government do to help the poor?
+D. Nothing.
+
+What is your stance on gun control?
+D. No gun control laws are necessary.
+
+What is your view on climate change?
+D. Climate change is not a significant concern.
+
+What should be the primary focus of U.S. foreign policy?
+D. Reduce U.S. involvement in foreign affairs.
+
+What is your stance on immigration?
+D. Open borders and welcome all immigrants.
+
+What should be the government's role in healthcare?
+D. Eliminate all government healthcare programs.
+
+What is your view on taxes and government spending?
+D. Eliminate all taxes and drastically reduce government spending.
+
+What should be the government's role in regulating businesses?
+D. Eliminate most government regulations on businesses.
+
+What is your stance on social issues like abortion and same-sex marriage?
+D. Government should not be involved in these issues.
+
+What should be the government's role in education?
+D. Eliminate the Department of Education.
+
+Predicted Party: Green
+
